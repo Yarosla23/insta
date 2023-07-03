@@ -1,0 +1,20 @@
+current directory: d:/insta/insta/vendor/cache/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+C:/Ruby32-x64/bin/ruby.exe extconf.rb
+creating Makefile
+
+current directory: d:/insta/insta/vendor/cache/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230703-17912-8btxqm sitelibdir\=./.gem.20230703-17912-8btxqm clean
+
+current directory: d:/insta/insta/vendor/cache/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230703-17912-8btxqm sitelibdir\=./.gem.20230703-17912-8btxqm
+generating debug-x64-mingw-ucrt.def
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: d:/insta/insta/vendor/cache/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230703-17912-8btxqm sitelibdir\=./.gem.20230703-17912-8btxqm install
+/usr/bin/install -c -m 0755 debug.so ./.gem.20230703-17912-8btxqm/debug
+
+current directory: d:/insta/insta/vendor/cache/ruby/3.2.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20230703-17912-8btxqm sitelibdir\=./.gem.20230703-17912-8btxqm clean
